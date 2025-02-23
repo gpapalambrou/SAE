@@ -1,10 +1,10 @@
 # ΕΙΣΑΓΩΓΗ ΣΤΟΝ ΑΥΤΟΜΑΤΟ ΕΛΕΓΧΟ
 ΕΜΠ/Σχολή Ναυπηγών Μηχανολόγων Μηχανικών
-- ΕΞΑΜΗΝΟ: 5ο
-- ΚΩΔΙΚΟΣ: 8.3.01.5
-- ΔΙΔΑΣΚΩΝ: Γ. Παπαλάμπρου, Επικ. Καθηγητής ΕΜΠ (george.papalambrou@lme.ntua.gr)
+- ΕΞΑΜΗΝΟ: 6ο
+- ΚΩΔΙΚΟΣ: 8090
+- ΔΙΔΑΣΚΩΝ: Γ. Παπαλάμπρου, Αναπληρωτής Καθηγητής ΕΜΠ (email: george.papalambrou@lme.ntua.gr)
 
-Το μάθημα οργανώνεται μέσω της [ιστοσελίδας] (http://www.lme.ntua.gr:8080/academic-info-1/prospheromena-mathemata/eisagoge-ston-automato-elegkho)
+Το μάθημα οργανώνεται μέσω της [ιστοσελίδας] ([http://www.lme.ntua.gr:8080/academic-info-1/prospheromena-mathemata/eisagoge-ston-automato-elegkho](https://helios.ntua.gr/course/view.php?id=2209))
 
 ### Εισαγωγή 
 
